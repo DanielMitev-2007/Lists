@@ -1,0 +1,7 @@
+C:\Users\MEGA\Desktop\zaddd2\zaddd2\bin\Debug\zaddd2.exe.config
+C:\Users\MEGA\Desktop\zaddd2\zaddd2\bin\Debug\zaddd2.exe
+C:\Users\MEGA\Desktop\zaddd2\zaddd2\bin\Debug\zaddd2.pdb
+C:\Users\MEGA\Desktop\zaddd2\zaddd2\obj\Debug\zaddd2.csproj.AssemblyReference.cache
+C:\Users\MEGA\Desktop\zaddd2\zaddd2\obj\Debug\zaddd2.csproj.CoreCompileInputs.cache
+C:\Users\MEGA\Desktop\zaddd2\zaddd2\obj\Debug\zaddd2.exe
+C:\Users\MEGA\Desktop\zaddd2\zaddd2\obj\Debug\zaddd2.pdb
